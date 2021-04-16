@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "nombre":"Carlos Angarita",
+      "email":"carlosreneas@ufps.edu.co",
+      "cargo":"director"
+    },
+    {
+      "nombre":"Brayan Peñaranda",
+      "email":"brayanismaelpr@ufps.edu.co",
+      "cargo":"lider",
+      "perfil":"frontend",
+      "tecnologias":[
+        {"nombre":"javascript","nivel":"5"},
+        {"nombre":"html","nivel":"5"},
+        {"nombre":"css","nivel":"5"},
+        {"nombre":"PHP","nivel":"3"},
+        {"nombre":"MySQL","nivel":"4"}
+        ]
+    }
+    
+  ]
+
+}
