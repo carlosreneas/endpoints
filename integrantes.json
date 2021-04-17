@@ -17,6 +17,22 @@
         {"nombre":"PHP","nivel":"3"},
         {"nombre":"MySQL","nivel":"4"}
         ]
+    },
+    {
+      "nombre":"Leonardo Trujillo",
+      "cargo":"integrante"
+    },
+    {
+      "nombre":"Maria Cortez",
+      "cargo":"integrante"
+    },
+    {
+      "nombre":"Yoner Silva",
+      "cargo":"integrante"
+    },
+    {
+      "nombre":"Henry Ortega",
+      "cargo":"integrante"
     }
     
   ]
